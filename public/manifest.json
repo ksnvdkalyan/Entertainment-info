@@ -1,0 +1,9 @@
+{
+  "name": "Entertainment Info",
+  "short_name": "Entertainment Info",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}
