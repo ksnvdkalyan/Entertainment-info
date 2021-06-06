@@ -1,3 +1,44 @@
+# Entertainment Info
+A website to get information about movies and TV series.
+It is a website to view the trending movies and TV series. We can also get the detailed information about actors, description and we can watch the trailer.
+
+<p align="center">
+<img src="images/pcTrending.PNG" width="770" height= "360">
+</p>
+
+<p align="center">
+<img src="images/pcInfo.PNG" width="770" height= "360">
+</p>
+
+We can view Movies, TV series of our specified genres.
+
+<p align="center">
+<img src="images/pcMovies.PNG" width="770" height= "360">
+</p>
+
+<p align="center">
+<img src="images/pcSeries.PNG" width="770" height= "360">
+</p>
+
+We can also search for Movies and TV series.
+
+<p align="center">
+<img src="images/pcSearch.PNG" width="770" height= "360">
+</p>
+
+<p align="center">
+<img src="images/pcSearch2.PNG" width="770" height= "360">
+</p>
+
+
+The website is responsive and functions all function are available in mobile mode.
+
+
+<img src="images/mobileTrending.PNG" width="200" height="400" ><img src="images/mobileMovies.PNG" width="200" height="400" ><img src="images/mobileSeries.PNG" width="200" height="400" ><img src="images/mobileSearch.PNG" width="200" height="400" ><img src="images/mobileSearch2.PNG" width="200" height="400" >
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
